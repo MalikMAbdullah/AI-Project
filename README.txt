@@ -40,7 +40,7 @@ PakGamer/
 ├── images/
 │   ├── logo.png            → https://app.reve.com/
 │   ├── hero-character.png  → https://app.leonardo.ai/
-│   ├── bg-hero.jpg         → https://app.reve.com
+│   ├── bg-hero.jpg         → https://www.pinterest.com/
 │   ├── game1.jpg, game2.jpg, game3.jpg → https://google.com/
 │   ├── icon-facebook.png, icon-instagram.png, icon-twitter.png, icon-youtube.png
 │   └── other media/icons as needed → https://www.svgrepo.com/
